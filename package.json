@@ -1,0 +1,15 @@
+{
+  "name": "acctelemetryserver",
+  "version": "1.0.0",
+  "description": "A server for sharing Motec Telemetry data files. Most sources of Motec data are paid, so it is the purpose of this project to provide free Motec data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/friesentyler/ACCTelemetryServer.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
